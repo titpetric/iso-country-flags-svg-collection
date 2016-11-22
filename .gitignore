@@ -1,1 +1,4 @@
-build
+build/*/??.svg
+build/*/??.png
+build/png-*
+build/xplanet
